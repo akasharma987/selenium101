@@ -19,7 +19,7 @@
             <class name="Tests.Test_Scenario_1"/>
             <class name="Tests.Test_Scenario_2"/>
             <class name="Tests.Test_Scenario_3"/>
-           
+             
         </classes>
     </test>
 </suite>
